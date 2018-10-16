@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="splash_logo_dimen">360dp</dimen>
+    <dimen name="login_logo_dimen">315dp</dimen>
+    <dimen name="login_logo_margin">90dp</dimen>
+    <dimen name="form_com_text_size">45sp</dimen>
+    <dimen name="login_button_margin">45dp</dimen>
+    <dimen name="main_button_dimen">607dp</dimen>
+    <dimen name="main_button_text_size">90dp</dimen>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/view_start"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/start_button">
+
+        <TextView
+            android:id="@+id/text_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/start"
+            android:textColor="@color/white"
+            android:textSize="@dimen/main_button_text_size" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/view_help"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/help_button">
+
+        <TextView
+            android:id="@+id/text_help"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/help"
+            android:textColor="@color/white"
+            android:textSize="@dimen/main_button_text_size" />
+    </FrameLayout>
+
+</LinearLayout>

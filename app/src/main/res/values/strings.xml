@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GPS Tracking Vehicles</string>
+    <string name="app_title">GPS Tracking</string>
+    <string name="vehicle_id">Vehicle Id</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="vehicle_id_cant_be_empty">Vehicle id can\'t be empty</string>
+    <string name="password_cant_be_empty">Password can\'t be empty</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="invalid_vehicle_id_or_password">Invalid vehicle id or password</string>
+    <string name="connection_error_try_again">Connection error, try again</string>
+    <string name="unable_to_contact_vehicles_owner">Unable to contact vehicle\'s owner</string>
+    <string name="help_request_sent_successfully">Help request sent successfully</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="help">HELP</string>
+    <string name="enable_gps">Enable GPS to keep tracking this vehicle</string>
+    <string name="turn_on_bluetooth">Turn on bluetooth to communicate with kit</string>
+    <string name="kit_not_paired">Kit not paired</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported</string>
+    <string name="enable_internet">Enable Internet to keep tracking this vehicle</string>
+    <string name="enable_internet_and_try_again">Enable internet and try again</string>
+    <string name="enable_gps_and_try_again">Enable GPS and try again</string>
+    <string name="vehicle_will_be_turn_off">Vehicle will be turned off</string>
+    <string name="vehicle_will_be_turn_on">Vehicle will be turned on</string>
+    <string name="owner_has_started_trip">Owner has started trip</string>
+    <string name="owner_has_ended_current_trip">Owner has ended current trip</string>
+    <string name="tracking_interval_updated_by_owner_to">Tracking interval updated by owner to</string>
+    <string name="vehicle_data_changed">Vehicle\'s data changed\nLogin again or contact your vehicle\'s owner</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#C65B5B</color>
+    <color name="primary_dark">#8F3234</color>
+    <color name="accent">#ffffff</color>
+    <color name="dark_white">#ffe7e7e7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="start_button_bg_normal">#1a9d00</color>
+    <color name="start_button_bg_pressed">#127000</color>
+    <color name="help_button_bg_normal">#d40000</color>
+    <color name="help_button_bg_pressed">#9d0000</color>
+
+</resources>
